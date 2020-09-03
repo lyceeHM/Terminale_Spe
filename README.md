@@ -5,7 +5,7 @@
 <br>
 <b>pour exécuter tout le répertoire, cliquer le lien suivant :</b>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyceeHM/Terminale_Comp/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyceeHM/Terminale_Spe/master)
 <br>
 <h2>Chapitre 1 : Récurrence</h2>
 
