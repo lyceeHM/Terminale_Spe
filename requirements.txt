@@ -1,5 +1,5 @@
 jupytext
-plotly==4.5.4
+plotly
 jupyter
 notebook
 pandas
@@ -9,3 +9,4 @@ plotly-geo
 psutil
 seaborn
 matplotlib
+ipympl
