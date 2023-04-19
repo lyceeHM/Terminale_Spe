@@ -1,0 +1,280 @@
+Date,DOM,BDOM,xGD,BEXT,xGE,EXT
+2022-08-05,Lyon,2.0,1.3,1.0,1.5,Ajaccio
+2022-08-06,Strasbourg,1.0,0.8,2.0,2.8,Monaco
+2022-08-06,Clermont Foot,0.0,0.3,5.0,3.5,Paris S-G
+2022-08-07,Toulouse,1.0,0.9,1.0,1.2,Nice
+2022-08-07,Lens,3.0,2.5,2.0,1.2,Brest
+2022-08-07,Angers,0.0,1.5,0.0,1.5,Nantes
+2022-08-07,Lille,4.0,2.4,1.0,0.6,Auxerre
+2022-08-07,Montpellier,3.0,1.7,2.0,2.0,Troyes
+2022-08-07,Rennes,0.0,1.8,1.0,1.1,Lorient
+2022-08-07,Marseille,4.0,2.1,1.0,0.9,Reims
+2022-08-12,Nantes,1.0,1.0,1.0,2.0,Lille
+2022-08-13,Monaco,1.0,1.8,1.0,2.1,Rennes
+2022-08-13,Paris S-G,5.0,3.2,2.0,0.9,Montpellier
+2022-08-14,Ajaccio,0.0,0.5,0.0,1.4,Lens
+2022-08-14,Reims,2.0,2.7,4.0,1.9,Clermont Foot
+2022-08-14,Auxerre,2.0,0.8,2.0,1.4,Angers
+2022-08-14,Troyes,0.0,1.0,3.0,1.5,Toulouse
+2022-08-14,Nice,1.0,1.6,1.0,0.9,Strasbourg
+2022-08-14,Brest,1.0,2.0,1.0,0.7,Marseille
+2022-08-19,Lyon,4.0,2.6,1.0,1.0,Troyes
+2022-08-20,Monaco,1.0,1.6,4.0,2.5,Lens
+2022-08-20,Marseille,2.0,1.1,1.0,2.2,Nantes
+2022-08-21,Strasbourg,1.0,1.2,1.0,2.0,Reims
+2022-08-21,Montpellier,1.0,1.0,2.0,1.3,Auxerre
+2022-08-21,Clermont Foot,1.0,0.7,0.0,1.4,Nice
+2022-08-21,Angers,1.0,0.6,3.0,1.8,Brest
+2022-08-21,Toulouse,2.0,1.8,2.0,2.5,Lorient
+2022-08-21,Rennes,2.0,1.2,1.0,1.4,Ajaccio
+2022-08-21,Lille,1.0,1.7,7.0,3.4,Paris S-G
+2022-08-26,Ajaccio,1.0,1.5,3.0,1.7,Lille
+2022-08-27,Auxerre,1.0,0.7,0.0,1.3,Strasbourg
+2022-08-27,Lens,2.0,1.3,1.0,1.0,Rennes
+2022-08-28,Nantes,3.0,1.5,1.0,0.6,Toulouse
+2022-08-28,Lorient,2.0,2.9,1.0,0.6,Clermont Foot
+2022-08-28,Brest,0.0,0.3,7.0,2.5,Montpellier
+2022-08-28,Nice,0.0,1.0,3.0,1.4,Marseille
+2022-08-28,Troyes,3.0,1.9,1.0,0.7,Angers
+2022-08-28,Reims,1.0,0.4,1.0,1.1,Lyon
+2022-08-28,Paris S-G,1.0,2.7,1.0,1.2,Monaco
+2022-08-31,Strasbourg,1.0,0.4,1.0,1.2,Nantes
+2022-08-31,Monaco,2.0,1.2,4.0,2.2,Troyes
+2022-08-31,Lyon,2.0,2.6,1.0,0.7,Auxerre
+2022-08-31,Angers,2.0,1.7,4.0,2.3,Reims
+2022-08-31,Montpellier,2.0,1.7,0.0,1.2,Ajaccio
+2022-08-31,Toulouse,0.0,0.8,3.0,2.8,Paris S-G
+2022-08-31,Lille,1.0,0.9,2.0,1.6,Nice
+2022-08-31,Rennes,3.0,1.5,1.0,0.5,Brest
+2022-08-31,Marseille,1.0,2.5,0.0,0.1,Clermont Foot
+2022-08-31,Lens,5.0,3.0,2.0,1.1,Lorient
+2022-09-03,Auxerre,0.0,0.6,2.0,1.6,Marseille
+2022-09-03,Lyon,5.0,1.4,0.0,1.0,Angers
+2022-09-03,Nantes,0.0,0.4,3.0,2.7,Paris S-G
+2022-09-04,Montpellier,1.0,0.5,3.0,1.6,Lille
+2022-09-04,Clermont Foot,2.0,1.3,0.0,1.3,Toulouse
+2022-09-04,Reims,1.0,2.1,1.0,1.9,Lens
+2022-09-04,Brest,1.0,0.8,1.0,2.4,Strasbourg
+2022-09-04,Ajaccio,0.0,0.5,1.0,0.8,Lorient
+2022-09-04,Troyes,1.0,0.9,1.0,2.4,Rennes
+2022-09-04,Nice,0.0,0.7,1.0,1.1,Monaco
+2022-09-07,Lorient,3.0,1.0,1.0,2.2,Lyon
+2022-09-09,Lens,1.0,1.4,0.0,0.7,Troyes
+2022-09-10,Paris S-G,1.0,1.7,0.0,1.1,Brest
+2022-09-10,Marseille,2.0,2.2,1.0,1.0,Lille
+2022-09-11,Strasbourg,0.0,1.2,0.0,0.8,Clermont Foot
+2022-09-11,Angers,2.0,2.5,1.0,0.7,Montpellier
+2022-09-11,Lorient,3.0,1.3,2.0,0.5,Nantes
+2022-09-11,Toulouse,1.0,1.3,0.0,1.0,Reims
+2022-09-11,Ajaccio,0.0,1.2,1.0,1.2,Nice
+2022-09-11,Rennes,5.0,1.6,0.0,0.7,Auxerre
+2022-09-11,Monaco,2.0,1.7,1.0,2.0,Lyon
+2022-09-16,Auxerre,1.0,2.0,3.0,2.5,Lorient
+2022-09-17,Montpellier,2.0,1.8,1.0,0.6,Strasbourg
+2022-09-17,Lille,2.0,1.0,1.0,0.8,Toulouse
+2022-09-18,Reims,0.0,0.6,3.0,1.7,Monaco
+2022-09-18,Brest,0.0,0.5,1.0,0.5,Ajaccio
+2022-09-18,Clermont Foot,1.0,1.0,3.0,1.5,Troyes
+2022-09-18,Nice,0.0,1.3,1.0,1.5,Angers
+2022-09-18,Marseille,1.0,1.6,1.0,1.2,Rennes
+2022-09-18,Nantes,0.0,0.9,0.0,0.9,Lens
+2022-09-18,Lyon,0.0,1.0,1.0,1.6,Paris S-G
+2022-09-30,Angers,0.0,1.2,3.0,1.6,Marseille
+2022-10-01,Strasbourg,1.0,1.3,3.0,3.2,Rennes
+2022-10-01,Paris S-G,2.0,1.0,1.0,0.5,Nice
+2022-10-02,Lorient,2.0,0.6,1.0,2.2,Lille
+2022-10-02,Auxerre,1.0,1.4,1.0,0.6,Brest
+2022-10-02,Troyes,2.0,1.6,2.0,1.0,Reims
+2022-10-02,Toulouse,4.0,1.7,2.0,1.2,Montpellier
+2022-10-02,Ajaccio,1.0,1.5,3.0,1.0,Clermont Foot
+2022-10-02,Monaco,4.0,2.1,1.0,0.5,Nantes
+2022-10-02,Lens,1.0,2.9,0.0,0.1,Lyon
+2022-10-07,Lyon,1.0,1.4,1.0,0.5,Toulouse
+2022-10-08,Marseille,1.0,1.7,2.0,0.2,Ajaccio
+2022-10-08,Reims,0.0,1.8,0.0,1.2,Paris S-G
+2022-10-09,Montpellier,0.0,0.7,2.0,1.2,Monaco
+2022-10-09,Brest,1.0,0.9,2.0,1.1,Lorient
+2022-10-09,Angers,2.0,2.1,3.0,2.0,Strasbourg
+2022-10-09,Clermont Foot,2.0,1.1,1.0,1.0,Auxerre
+2022-10-09,Nice,3.0,2.6,2.0,1.5,Troyes
+2022-10-09,Rennes,3.0,1.8,0.0,0.5,Nantes
+2022-10-09,Lille,1.0,2.6,0.0,1.2,Lens
+2022-10-14,Strasbourg,0.0,0.6,3.0,2.3,Lille
+2022-10-15,Lorient,0.0,0.8,0.0,0.6,Reims
+2022-10-15,Lens,1.0,1.8,0.0,0.7,Montpellier
+2022-10-16,Toulouse,3.0,2.4,2.0,1.2,Angers
+2022-10-16,Rennes,3.0,1.6,2.0,1.1,Lyon
+2022-10-16,Troyes,1.0,0.6,1.0,2.4,Ajaccio
+2022-10-16,Auxerre,1.0,0.8,1.0,1.6,Nice
+2022-10-16,Nantes,4.0,2.9,1.0,0.7,Brest
+2022-10-16,Monaco,1.0,1.1,1.0,1.9,Clermont Foot
+2022-10-16,Paris S-G,1.0,2.5,0.0,1.2,Marseille
+2022-10-21,Ajaccio,0.0,0.3,3.0,2.5,Paris S-G
+2022-10-22,Montpellier,1.0,1.1,2.0,2.7,Lyon
+2022-10-22,Marseille,0.0,1.8,1.0,0.9,Lens
+2022-10-23,Angers,1.0,1.2,2.0,2.2,Rennes
+2022-10-23,Troyes,2.0,0.8,2.0,1.4,Lorient
+2022-10-23,Clermont Foot,1.0,1.0,3.0,3.0,Brest
+2022-10-23,Reims,2.0,2.4,1.0,0.7,Auxerre
+2022-10-23,Toulouse,2.0,2.2,2.0,1.8,Strasbourg
+2022-10-23,Nice,1.0,1.4,1.0,1.0,Nantes
+2022-10-23,Lille,4.0,2.5,3.0,1.1,Monaco
+2022-10-28,Lens,3.0,2.4,0.0,0.7,Toulouse
+2022-10-29,Paris S-G,4.0,2.9,3.0,2.0,Troyes
+2022-10-29,Strasbourg,2.0,1.1,2.0,2.0,Marseille
+2022-10-30,Auxerre,1.0,1.5,0.0,0.4,Ajaccio
+2022-10-30,Rennes,3.0,1.2,0.0,0.9,Montpellier
+2022-10-30,Monaco,2.0,1.8,0.0,0.6,Angers
+2022-10-30,Brest,0.0,1.5,0.0,1.0,Reims
+2022-10-30,Nantes,1.0,1.7,1.0,0.7,Clermont Foot
+2022-10-30,Lorient,1.0,1.8,2.0,1.8,Nice
+2022-10-30,Lyon,1.0,1.6,0.0,1.5,Lille
+2022-11-04,Troyes,1.0,1.9,1.0,1.4,Auxerre
+2022-11-05,Ajaccio,4.0,3.7,2.0,0.9,Strasbourg
+2022-11-05,Angers,1.0,0.5,2.0,1.8,Lens
+2022-11-06,Lorient,1.0,0.8,2.0,1.6,Paris S-G
+2022-11-06,Toulouse,0.0,0.7,2.0,2.4,Monaco
+2022-11-06,Reims,1.0,2.8,0.0,0.7,Nantes
+2022-11-06,Nice,1.0,1.1,0.0,1.1,Brest
+2022-11-06,Clermont Foot,1.0,3.4,1.0,1.2,Montpellier
+2022-11-06,Lille,1.0,2.4,1.0,0.9,Rennes
+2022-11-06,Marseille,1.0,0.8,0.0,0.9,Lyon
+2022-11-11,Lyon,1.0,1.3,1.0,1.6,Nice
+2022-11-12,Lens,2.0,1.5,1.0,0.2,Clermont Foot
+2022-11-12,Rennes,2.0,2.1,1.0,1.0,Toulouse
+2022-11-13,Paris S-G,5.0,2.0,0.0,0.7,Auxerre
+2022-11-13,Lille,1.0,0.6,0.0,0.6,Angers
+2022-11-13,Montpellier,1.0,1.7,1.0,2.1,Reims
+2022-11-13,Brest,2.0,2.4,1.0,1.0,Troyes
+2022-11-13,Nantes,2.0,1.1,2.0,2.5,Ajaccio
+2022-11-13,Strasbourg,1.0,2.3,1.0,0.5,Lorient
+2022-11-13,Monaco,2.0,2.0,3.0,1.9,Marseille
+2022-12-28,Ajaccio,1.0,1.6,0.0,1.9,Angers
+2022-12-28,Troyes,0.0,0.2,0.0,1.5,Nantes
+2022-12-28,Auxerre,2.0,1.3,3.0,1.3,Monaco
+2022-12-28,Clermont Foot,0.0,0.7,2.0,1.6,Lille
+2022-12-28,Brest,2.0,1.3,4.0,3.1,Lyon
+2022-12-28,Paris S-G,2.0,2.1,1.0,1.3,Strasbourg
+2022-12-29,Lorient,0.0,1.0,2.0,1.7,Montpellier
+2022-12-29,Reims,3.0,1.4,1.0,1.6,Rennes
+2022-12-29,Marseille,6.0,2.6,1.0,1.8,Toulouse
+2022-12-29,Nice,0.0,1.0,0.0,1.0,Lens
+2023-01-01,Toulouse,2.0,1.1,0.0,0.0,Ajaccio
+2023-01-01,Monaco,1.0,1.4,0.0,0.8,Brest
+2023-01-01,Angers,1.0,2.3,2.0,0.6,Lorient
+2023-01-01,Nantes,1.0,1.0,0.0,0.8,Auxerre
+2023-01-01,Lyon,0.0,0.7,1.0,1.2,Clermont Foot
+2023-01-01,Lens,3.0,1.8,1.0,1.6,Paris S-G
+2023-01-02,Strasbourg,2.0,1.1,3.0,1.2,Troyes
+2023-01-02,Lille,1.0,2.3,1.0,0.8,Reims
+2023-01-02,Montpellier,1.0,1.4,2.0,1.4,Marseille
+2023-01-02,Rennes,2.0,1.9,1.0,0.4,Nice
+2023-01-11,Clermont Foot,2.0,1.7,1.0,1.1,Rennes
+2023-01-11,Ajaccio,0.0,1.0,1.0,0.9,Reims
+2023-01-11,Auxerre,0.0,1.1,5.0,2.2,Toulouse
+2023-01-11,Brest,0.0,0.3,0.0,0.7,Lille
+2023-01-11,Nantes,0.0,1.1,0.0,0.5,Lyon
+2023-01-11,Troyes,0.0,0.2,2.0,1.9,Marseille
+2023-01-11,Nice,6.0,2.5,1.0,0.2,Montpellier
+2023-01-11,Paris S-G,2.0,1.3,0.0,0.5,Angers
+2023-01-11,Lorient,2.0,1.3,2.0,1.8,Monaco
+2023-01-11,Strasbourg,2.0,0.8,2.0,1.9,Lens
+2023-01-14,Lens,1.0,2.0,0.0,0.3,Auxerre
+2023-01-14,Marseille,3.0,2.2,1.0,0.5,Lorient
+2023-01-14,Lyon,1.0,2.8,2.0,1.1,Strasbourg
+2023-01-15,Lille,5.0,3.8,1.0,0.9,Troyes
+2023-01-15,Toulouse,1.0,1.4,1.0,1.0,Brest
+2023-01-15,Montpellier,0.0,0.9,3.0,0.6,Nantes
+2023-01-15,Reims,0.0,0.9,0.0,0.8,Nice
+2023-01-15,Angers,1.0,0.6,2.0,1.7,Clermont Foot
+2023-01-15,Monaco,7.0,3.7,1.0,0.3,Ajaccio
+2023-01-15,Rennes,1.0,0.8,0.0,1.0,Paris S-G
+2023-01-27,Lorient,2.0,0.9,1.0,1.5,Rennes
+2023-01-28,Troyes,1.0,1.2,1.0,2.9,Lens
+2023-01-28,Marseille,1.0,1.6,1.0,1.5,Monaco
+2023-01-29,Nice,1.0,1.6,0.0,1.6,Lille
+2023-01-29,Clermont Foot,0.0,0.7,0.0,0.1,Nantes
+2023-01-29,Brest,4.0,1.6,0.0,0.8,Angers
+2023-01-29,Auxerre,0.0,1.8,2.0,0.7,Montpellier
+2023-01-29,Strasbourg,1.0,1.3,2.0,1.2,Toulouse
+2023-01-29,Ajaccio,0.0,1.7,2.0,1.9,Lyon
+2023-01-29,Paris S-G,1.0,1.6,1.0,2.5,Reims
+2023-02-01,Lille,0.0,1.3,0.0,1.4,Clermont Foot
+2023-02-01,Nantes,0.0,1.2,2.0,1.7,Marseille
+2023-02-01,Toulouse,4.0,2.2,1.0,1.2,Troyes
+2023-02-01,Angers,1.0,0.4,2.0,1.4,Ajaccio
+2023-02-01,Reims,4.0,3.8,2.0,0.6,Lorient
+2023-02-01,Lyon,0.0,2.5,0.0,0.6,Brest
+2023-02-01,Monaco,3.0,1.2,2.0,1.4,Auxerre
+2023-02-01,Montpellier,1.0,0.5,3.0,4.4,Paris S-G
+2023-02-01,Lens,0.0,0.6,1.0,2.1,Nice
+2023-02-01,Rennes,3.0,1.1,0.0,0.1,Strasbourg
+2023-02-04,Paris S-G,2.0,1.9,1.0,0.8,Toulouse
+2023-02-04,Troyes,1.0,1.0,3.0,0.8,Lyon
+2023-02-04,Rennes,1.0,1.8,3.0,2.2,Lille
+2023-02-05,Clermont Foot,0.0,0.4,2.0,1.4,Monaco
+2023-02-05,Strasbourg,2.0,0.9,0.0,0.9,Montpellier
+2023-02-05,Ajaccio,0.0,0.3,2.0,1.2,Nantes
+2023-02-05,Auxerre,0.0,1.2,0.0,0.6,Reims
+2023-02-05,Lorient,0.0,1.0,0.0,0.7,Angers
+2023-02-05,Brest,1.0,2.0,1.0,2.5,Lens
+2023-02-05,Marseille,1.0,2.3,3.0,1.4,Nice
+2023-02-10,Nice,3.0,0.6,0.0,0.4,Ajaccio
+2023-02-11,Monaco,3.0,2.9,1.0,0.8,Paris S-G
+2023-02-11,Clermont Foot,0.0,0.8,2.0,2.6,Marseille
+2023-02-12,Toulouse,3.0,2.1,1.0,1.3,Rennes
+2023-02-12,Angers,1.0,0.9,1.0,2.6,Auxerre
+2023-02-12,Lille,2.0,2.7,0.0,0.3,Strasbourg
+2023-02-12,Montpellier,3.0,2.5,0.0,0.8,Brest
+2023-02-12,Reims,4.0,2.3,0.0,0.9,Troyes
+2023-02-12,Nantes,1.0,1.0,0.0,1.1,Lorient
+2023-02-12,Lyon,2.0,1.4,1.0,1.1,Lens
+2023-02-17,Auxerre,2.0,1.5,1.0,0.8,Lyon
+2023-02-18,Nice,0.0,1.2,0.0,1.6,Reims
+2023-02-18,Strasbourg,2.0,1.7,1.0,1.2,Angers
+2023-02-19,Paris S-G,4.0,2.0,3.0,2.4,Lille
+2023-02-19,Troyes,0.0,0.1,1.0,1.6,Montpellier
+2023-02-19,Lorient,3.0,2.5,0.0,0.7,Ajaccio
+2023-02-19,Brest,1.0,0.9,2.0,1.5,Monaco
+2023-02-19,Rennes,2.0,2.4,0.0,1.1,Clermont Foot
+2023-02-19,Lens,3.0,2.4,1.0,0.3,Nantes
+2023-02-19,Toulouse,2.0,2.0,3.0,1.0,Marseille
+2023-02-24,Lille,2.0,1.0,1.0,0.2,Brest
+2023-02-25,Angers,1.0,1.5,3.0,1.1,Lyon
+2023-02-25,Montpellier,1.0,0.6,1.0,1.9,Lens
+2023-02-26,Lorient,0.0,1.5,1.0,0.7,Auxerre
+2023-02-26,Clermont Foot,1.0,1.2,1.0,1.2,Strasbourg
+2023-02-26,Ajaccio,2.0,3.8,1.0,1.5,Troyes
+2023-02-26,Reims,3.0,2.7,0.0,1.1,Toulouse
+2023-02-26,Nantes,0.0,2.6,1.0,1.1,Rennes
+2023-02-26,Monaco,0.0,1.0,3.0,2.3,Nice
+2023-02-26,Marseille,0.0,1.6,3.0,2.0,Paris S-G
+2023-03-03,Nice,1.0,1.6,1.0,0.5,Auxerre
+2023-03-04,Lens,1.0,0.9,1.0,1.6,Lille
+2023-03-04,Paris S-G,4.0,1.4,2.0,0.4,Nantes
+2023-03-05,Troyes,2.0,0.9,2.0,3.0,Monaco
+2023-03-05,Montpellier,5.0,2.9,0.0,0.9,Angers
+2023-03-05,Toulouse,0.0,1.0,1.0,0.8,Clermont Foot
+2023-03-05,Strasbourg,0.0,1.2,1.0,0.8,Brest
+2023-03-05,Reims,1.0,0.6,0.0,0.4,Ajaccio
+2023-03-05,Lyon,0.0,2.2,0.0,1.0,Lorient
+2023-03-05,Rennes,0.0,1.0,1.0,1.6,Marseille
+2023-03-10,Lille,3.0,2.3,3.0,0.8,Lyon
+2023-03-11,Auxerre,0.0,0.7,0.0,0.5,Rennes
+2023-03-11,Brest,1.0,0.6,2.0,2.6,Paris S-G
+2023-03-12,Clermont Foot,0.0,1.2,4.0,2.0,Lens
+2023-03-12,Lorient,2.0,1.9,0.0,0.7,Troyes
+2023-03-12,Ajaccio,0.0,0.2,1.0,1.0,Montpellier
+2023-03-12,Nantes,2.0,1.6,2.0,1.2,Nice
+2023-03-12,Angers,0.0,1.7,2.0,1.6,Toulouse
+2023-03-12,Monaco,0.0,0.9,1.0,1.9,Reims
+2023-03-12,Marseille,2.0,1.6,2.0,2.1,Strasbourg
+2023-03-17,Lyon,1.0,1.4,1.0,1.7,Nantes
+2023-03-18,Toulouse,0.0,2.3,2.0,1.4,Lille
+2023-03-18,Lens,3.0,1.6,0.0,0.5,Angers
+2023-03-31,Marseille,1.0,1.3,1.0,0.9,Montpellier
+2023-04-07,Lens,2.0,1.0,1.0,0.8,Strasbourg
+2023-04-14,Toulouse,1.0,1.2,2.0,2.3,Lyon
+2023-04-15,Rennes,3.0,2.9,0.0,0.4,Reims
+2023-04-15,Paris S-G,3.0,1.2,1.0,1.8,Lens
+2023-04-16,Lille,2.0,2.1,1.0,0.4,Montpellier
